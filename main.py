@@ -1,5 +1,5 @@
 import application.salary as salary
-import application.people as people
+import application.db.people as people
 
 from datetime import datetime
 
